@@ -1,6 +1,6 @@
 # Antibody-antigen champloo
 
-!.ab_ag_champloo_graphical_abstract.png
+!(.ab_ag_champloo_graphical_abstract.png)
 
 This GitHub repository supports "Structural Plausibility Without Binding Specificity: Limits of AI-Based Antibody-Antigen Structure Prediction Confidence Scores" study.
 
